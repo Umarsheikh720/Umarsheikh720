@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Umarsheikh720
-- 👀 I’m interested in Development Website, Desktop apps, Mobile apps & server applications
+- 👀 I’m interested in Development Website, Desktop apps, Mobile apps & server applications using dotnet, dotnet core, nodejs
 - 🌱 I’m currently learning React Native, Flutter
 - 💞️ I’m looking to collaborate on Anything Good about technology
 - 📫 How to reach me >>> Shiekhumer04@gmail.com
